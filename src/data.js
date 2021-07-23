@@ -25,7 +25,7 @@ export default [
     id: 3,
     header: "Quem?",
     title: "Quem compra?",
-    text: "A primeira etapa pra saber quanto se vende é descobrir quem compra ou quantos compram. Segundo o Google o Brasil tem uma população de 211 milhões de indivíduos. Segundo dados da agêmcia CBIC 35 milhões de brasileiros não tem acesso a água potável. Para efeitos práticos vamos afirmar que nem todos os brasileiros compram pasta de dente por falta de acesso. Vamos assumir que o número de brasileiros que não tem acesso a itens de higiene pessoal básica seja o mesmo número de brasileiros que não tem acesso a água potável: 35 milhões. Então seriam 176 milhões de brasileiros consumidores de pasta de dente. ",
+    text: "A primeira etapa pra saber quanto se vende é descobrir quem compra ou quantos compram. Segundo o Google o Brasil tem uma população de 211 milhões de indivíduos. Segundo dados da agência CBIC 35 milhões de brasileiros não tem acesso a água potável. Para efeitos práticos vamos afirmar que nem todos os brasileiros compram pasta de dente por falta de acesso. Vamos assumir que o número de brasileiros que não tem acesso a itens de higiene pessoal básica seja o mesmo número de brasileiros que não tem acesso a água potável: 35 milhões. Então seriam 176 milhões de brasileiros consumidores de pasta de dente. ",
     img: "/assets/data.jpeg",
     link: "https://cbic.org.br/35-milhoes-de-brasileiros-nao-tem-acesso-a-agua-potavel-no-pais/",
   },
